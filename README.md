@@ -1,66 +1,83 @@
-# 🎧 Lecteur Audio Web - Projet en cours
+# 🎧 Web Audio Player - Ongoing Project
 
-## 📌 Présentation
+## 📌 Overview
 
-Ce projet est un lecteur audio fonctionnant sur **desktop et mobile**, développé principalement en **JavaScript**, avec des compléments en **HTML**, **CSS**, et **PHP**. Il vise à offrir une expérience simple mais puissante de lecture et de gestion de fichiers audio.
+This is a **cross-platform web-based audio player** designed for both desktop and mobile environments. It is built primarily with **JavaScript**, supported by **HTML**, **CSS**, and a bit of **PHP**.
 
-> Version actuelle : [Voir la démo en ligne](https://allsolit.be/mam/36/index.html)
-
----
-
-## 🛠️ Technologies utilisées
-
-- `HTML` - Structure de la page
-- `CSS` - Mise en forme et design
-- `JavaScript` - Fonctionnalité principale du lecteur
-- `PHP` - Fonction de backend légère (optionnelle)
+> Current version (demo): [Click here to try it](https://allsolit.be/mam/36/index.html)
 
 ---
 
-## 🎯 Objectifs du projet
+## 🛠️ Technologies Used
 
-- Offrir une **expérience utilisateur fluide** sur navigateur web
-- Être **exécutable sans serveur** (version standalone)
-- Permettre une **portabilité multiplateforme** (mobile et desktop)
-- Explorer des technologies modernes (Flutter, PWA, WebAssembly)
+- `HTML` – Page structure
+- `CSS` – Styling and layout
+- `JavaScript` – Core functionality
+- `PHP` – Optional backend logic (minimal)
 
 ---
 
-## 🚧 TODO / Roadmap
+## 🎯 Project Goals
 
-### ✅ Version actuelle (V1)
-- Lecteur fonctionnel en HTML/CSS/JS
-- Compatible desktop et mobile
+- Deliver a **fluid and responsive** audio player experience
+- Make the app **fully executable without a server**
+- Ensure **multi-platform portability** (web, mobile, desktop)
+- Explore modern tech stacks like:
+  - **Flutter**
+  - **PWA (Progressive Web App)**
+  - **WebAssembly**
 
-### 📦 V2 - En cours
-- ✅ Rendre le lecteur **exécutable sans serveur**
-- 🔧 **Check bugs** (stabilité, compatibilité navigateur)
-- 🎨 **Amélioration du menu** (design, options)
-- 🚀 Choix techno pour refonte :
+---
+
+## 🚧 Roadmap / TODO
+
+### ✅ Current Features (V1)
+- Functional audio player using classic web stack
+- Compatible with both desktop and mobile devices
+
+### 🔜 Version 2 – In Progress
+- ✅ Make the player executable **without server dependency**
+- 🔍 Bug checking (UI, functionality, browser compatibility)
+- 🎨 Improve the **menu interface** (design & feature options)
+- 🧪 Evaluate migration to:
   - PWA
   - Flutter
   - WebAssembly
-- 🌐 Création d’un **dépôt Git** (en cours)
-- 🛠️ Test de portabilité vers d'autres stacks
+- 🌐 Set up a **Git repository**
+- 🔬 Test portability to other platforms
 
 ---
 
-## 🔮 Idées d'évolution
+## 🌟 Planned Features / Ideas
 
-- 🎚️ Paramètres utilisateur : volume, thème, préférences de lecture
-- 📂 Scan du périphérique local pour détecter les fichiers audio
-- 🧰 Intégration de **FFMPEG** pour :
-  - Découpe de fichiers
-  - Changement de qualité
-  - Conversion codec (MP3, OGG, WAV...)
-- ☁️ Évaluer la **nécessité d’une base de données cloud**
-- 📉 Analyse des **limites du lecteur** (poids max, formats, RAM...)
+- 🎛️ User settings (volume, theme, playback preferences)
+- 📁 Scan local device for audio files
+- 🛠️ Integrate **FFMPEG** for advanced audio manipulation:
+  - File trimming
+  - Quality adjustments
+  - Codec conversions (MP3, OGG, WAV, etc.)
+- ☁️ Evaluate **cloud database** use for storage or sync
+- 📉 Stress testing and limitations assessment
 
 ---
 
-## 📁 Arborescence simplifiée
-A compléter
+## 📁 Project Structure (Simplified)
+At completed ...
 
-## 👀 Démo
+---
 
-🔗 [https://allsolit.be/mam/36/index.html](https://allsolit.be/mam/36/index.html)
+## 🤝 Contributing
+
+Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request. Feel free to open issues for bugs or ideas.
+
+---
+
+## 🔗 Live Demo
+
+[https://allsolit.be/mam/36/index.html](https://allsolit.be/mam/36/index.html)
+
+---
+
+## 📬 Contact
+
+For bug reports, suggestions, or questions, please open an issue or reach out directly.
